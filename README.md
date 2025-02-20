@@ -1,5 +1,5 @@
 
--👋 Hi, I'm Alok, a first-year student of Computer Science and Engineering at Galgotias University.
+-👋 Hi, I'm Alok, student of Computer Science and Engineering at Galgotias University.
 
 -👀 I'm interested in exploring various areas of software development and technology. My passions lie in web development,machine learning, data science, and open-source projects.
 
